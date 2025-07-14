@@ -1,5 +1,5 @@
 Brand,ProductGroup,TemplateName,ImageFile,Language
-Nike,Schuhe,Nike Sneaker,nike_de.jpg,DE
-Nike,Shoes,Nike Sneaker,nike_en.jpg,EN
-Adidas,Kleidung,Adidas T-Shirt,adidas_de.jpg,DE
-Adidas,Clothing,Adidas Shirt,adidas_en.jpg,EN
+Nike,Schuhe,Nike Sneaker,https://s3.deuba-img.com/img/ab1/100050/a_de_100050g.jpg?time=1752499611,DE
+Nike,Shoes,Nike Sneaker,https://s3.deuba-img.com/img/ab1/100050/a_de_100050g.jpg?time=1752499611,EN
+Adidas,Kleidung,Adidas T-Shirt,https://s3.deuba-img.com/img/ab1/100050/a_de_100050g.jpg?time=1752499611,DE
+Adidas,Clothing,Adidas Shirt,https://s3.deuba-img.com/img/ab1/100050/a_de_100050g.jpg?time=1752499611,EN
