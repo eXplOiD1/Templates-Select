@@ -1,3 +1,5 @@
 Brand,ProductGroup,TemplateName,ImageFile,Language
-Nike,Schuhe,Nike Sneaker,nike_schuh.png,DE
-Adidas,Kleidung,Adidas Shirt,adidas_shirt.jpg,EN
+Nike,Schuhe,Nike Sneaker,nike_de.jpg,DE
+Nike,Shoes,Nike Sneaker,nike_en.jpg,EN
+Adidas,Kleidung,Adidas T-Shirt,adidas_de.jpg,DE
+Adidas,Clothing,Adidas Shirt,adidas_en.jpg,EN
